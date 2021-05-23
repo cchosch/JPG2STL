@@ -1,0 +1,6 @@
+# Settings for lithophane maker
+minDepth = 0.5 # mm
+maxDepth = 3  # mm
+frameWidth = 10 # cm
+frameHeight = 10 # cm
+borderWidth = 1 # cm

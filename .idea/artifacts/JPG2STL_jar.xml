@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JPG2STL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JPG2STL_jar</output-path>
+    <root id="archive" name="JPG2STL.jar">
+      <element id="module-output" name="JPG2STL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/J3D/java3d-core-1.6.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/J3D/vecmath-1.6.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
